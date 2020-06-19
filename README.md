@@ -7,7 +7,7 @@ Machine learning stuff.
 Learn from the source, with the OG Python Tutorial: <br />
 https://docs.python.org/3/tutorial/index.html
 
-The Numpy Stack <br />
+The Numpy Stack (Prerequisite for TF 2.0) <br />
 https://www.udemy.com/course/numpy-python/
 
 TF 2.0 Course on Udemy (Cost: $10.99) <br />
